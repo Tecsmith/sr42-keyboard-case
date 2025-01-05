@@ -1,6 +1,6 @@
-# VR42 Keyboard Case
+# SR42 Keyboard Case
 
-**Fusion 360 source files for the VR42 keyboard**
+**Fusion 360 source files for the SR42 keyboard**
 
 ---
 
@@ -10,34 +10,34 @@
 ---
 
 <table>
-  <tr><td colspan="12" align="center"><img src="docs/vr42-render.png"></td></tr>
+  <tr><td colspan="12" align="center"><img src="docs/sr42-render.png"></td></tr>
   <tr>
-    <td colspan="4" align="center"><img src="docs/assets/img/vr42-case-top.png" width="320"></td>
-    <td colspan="4" align="center"><img src="docs/assets/img/vr42-plate.png" width="320"></td>
-    <td colspan="4" align="center"><img src="docs/assets/img/vr42-case-btm.png" width="320"></td>
+    <td colspan="4" align="center"><img src="docs/assets/img/sr42-case-top.png" width="320"></td>
+    <td colspan="4" align="center"><img src="docs/assets/img/sr42-plate.png" width="320"></td>
+    <td colspan="4" align="center"><img src="docs/assets/img/sr42-case-btm.png" width="320"></td>
   </tr>
   <tr>
-    <td colspan="3" align="center"><img src="docs/assets/img/vr42-cl-silver.png" width="213"></td>
-    <td colspan="3" align="center"><img src="docs/assets/img/vr42-cl-blue.png" width="213"></td>
-    <td colspan="3" align="center"><img src="docs/assets/img/vr42-cl-brown.png" width="213"></td>
-    <td colspan="3" align="center"><img src="docs/assets/img/vr42-cl-orange.png" width="213"></td>
+    <td colspan="3" align="center"><img src="docs/assets/img/sr42-cl-silver.png" width="213"></td>
+    <td colspan="3" align="center"><img src="docs/assets/img/sr42-cl-blue.png" width="213"></td>
+    <td colspan="3" align="center"><img src="docs/assets/img/sr42-cl-brown.png" width="213"></td>
+    <td colspan="3" align="center"><img src="docs/assets/img/sr42-cl-orange.png" width="213"></td>
   </tr>
 </table>
 
 ## Project Resources
 
 - Source
-  - Recovery [Fusion 360 source](Fusion360/VR42_Keyboard.f3z) file.
+  - Recovery [Fusion 360 source](Fusion360/SR42_Keyboard.f3z) file.
 - Componentized, build STEP files
-  - [Case Top](Fusion360/build/vr42_case_top.stp)
-  - [Case Bottom](Fusion360/build/vr42_case_bottom.stp)
-  - [Plate](Fusion360/build/vr42_plate.stp)
-  - [Plate Foam](Fusion360/build/vr42_plate_foam.stp)
+  - [Case Top](Fusion360/build/sr42_case_top.stp)
+  - [Case Bottom](Fusion360/build/sr42_case_bottom.stp)
+  - [Plate](Fusion360/build/sr42_plate.stp)
+  - [Plate Foam](Fusion360/build/sr42_plate_foam.stp)
 
 
 ## PCB
 
-This case is designed in conjunction with the [VR42 Keyboard PCB](https://github.com/tecsmith/vr42-keyboard-pcb).  These two projects are mutually inclusive and built as one solution.
+This case is designed in conjunction with the [SR42 Keyboard PCB](https://github.com/tecsmith/sr42-keyboard-pcb).  These two projects are mutually inclusive and built as one solution.
 
 ---
 
@@ -131,4 +131,4 @@ The case design is available as open source under the terms of the [Creative Com
 
 &nbsp;<br>&nbsp;
 ---
-Made with &#9829; by **Vino Rodrigues**
+Made with :heart: by **Silvino Rodrigues**
