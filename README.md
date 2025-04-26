@@ -51,9 +51,9 @@ Keyboard will be made with 3 *(plus a 4<sup>th</sup> on request)* top case optio
 
 || Mac Silver | Sky Blue | Bronze Brown | Burnt Orange |
 |:---:|:---:|:---:|:---:|:---:|
-| Color<sup>1</sup> | ![](https://placeholder.pics/svg/256/AAAAAA/AAAAAA) | ![](https://placeholder.pics/svg/256/446688/446688) | ![](https://placeholder.pics/svg/256/886633/886633) | ![](https://placeholder.pics/svg/256/CC6633/CC6633) | |
+| Color<sup>1</sup> | ![](./docs/assets/img/aaaaaa.svg) | ![](./docs/assets/img/446688.svg) | ![](./docs/assets/img/886633.svg) | ![](./docs/assets/img/cc6633.svg) | |
 || #AAA | #468 | #863 | #C63
-| Panatone<sup>2</sup> | ![](https://encycolorpedia.com/a6a9aa.svg) | ![](https://encycolorpedia.com/486785.svg) | ![](https://encycolorpedia.com/82643e.svg) | ![](https://encycolorpedia.com/c96939.svg) |
+| Panatone<sup>2</sup> | ![](./docs/assets/img/a6a9aa.svg) | ![](./docs/assets/img/486785.svg) | ![](./docs/assets/img/82643e.svg) | ![](./docs/assets/img/c96939.svg) |
 || Pantone / PMS Silver 10077 C | Pantone / PMS 2186 UP | Pantone / PMS 18-0937 TPG | Pantone / PMS 16-1448 TPG | 
 | Anno | ![](./docs/assets/img/ua-satin-spanish-silver-clear.jpg) | ![](./docs/assets/img/ua-satin-reef-blue.jpg) | ![](./docs/assets/img/ua-satin-medium-bronze.jpg) | ![](./docs/assets/img/ua-satin-oriental.jpg) |
 || Spanish Silver | Reef Blue | Medium Bronze | Oriental | |
