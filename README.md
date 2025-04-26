@@ -51,11 +51,11 @@ Keyboard will be made with 3 *(plus a 4<sup>th</sup> on request)* top case optio
 
 || Mac Silver | Sky Blue | Bronze Brown | Burnt Orange |
 |:---:|:---:|:---:|:---:|:---:|
-| Color<sup>1</sup> | <img src="https://placeholder.pics/svg/96/AAAAAA/AAAAAA"> | <img src="https://placeholder.pics/svg/96/446688/446688"> | <img src="https://placeholder.pics/svg/96/886633/886633"> | <img src="https://placeholder.pics/svg/96/CC6633/CC6633"> | |
+| Color<sup>1</sup> | ![](https://placeholder.pics/svg/256/AAAAAA/AAAAAA) | ![](https://placeholder.pics/svg/256/446688/446688) | ![](https://placeholder.pics/svg/256/886633/886633) | ![](https://placeholder.pics/svg/256/CC6633/CC6633) | |
 || #AAA | #468 | #863 | #C63
-| Panatone<sup>2</sup> | <img src="https://encycolorpedia.com/a6a9aa.svg" width="96" height="96"> | <img src="https://encycolorpedia.com/486785.svg" width="96" height="96"> | <img src="https://encycolorpedia.com/82643e.svg" width="96" height="96"> | <img src="https://encycolorpedia.com/c96939.svg" width="96" height="96"> |
+| Panatone<sup>2</sup> | ![](https://encycolorpedia.com/a6a9aa.svg) | ![](https://encycolorpedia.com/486785.svg) | ![](https://encycolorpedia.com/82643e.svg) | ![](https://encycolorpedia.com/c96939.svg) |
 || Pantone / PMS Silver 10077 C | Pantone / PMS 2186 UP | Pantone / PMS 18-0937 TPG | Pantone / PMS 16-1448 TPG | 
-| Anno | <img src="./docs/assets/img/ua-satin-spanish-silver-clear.jpg" width="96" height="96"> | <img src="./docs/assets/img/ua-satin-reef-blue.jpg" width="96" height="96"> | <img src="./docs/assets/img/ua-satin-medium-bronze.jpg" width="96" height="96"> | <img src="./docs/assets/img/ua-satin-oriental.jpg" width="96" height="96"> |
+| Anno | ![](./docs/assets/img/ua-satin-spanish-silver-clear.jpg) | ![](./docs/assets/img/ua-satin-reef-blue.jpg) | ![](./docs/assets/img/ua-satin-medium-bronze.jpg) | ![](./docs/assets/img/ua-satin-oriental.jpg) |
 || Spanish Silver | Reef Blue | Medium Bronze | Oriental | |
 
 > <sup>1</sup> = This is the 3-digit hex color representation of the color, but not the actual color.<br>
@@ -131,4 +131,4 @@ The case design is available as open source under the terms of the [Creative Com
 
 &nbsp;<br>&nbsp;
 ---
-Made with :heart: by **Silvino Rodrigues**
+Made with :heart: by **Silvino R.*
