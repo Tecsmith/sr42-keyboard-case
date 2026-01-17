@@ -9,8 +9,8 @@ FILE_DESCRIPTION(
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ 'b8e10407-8c9e-49de-a739-17250c80e29b.step',
-/* time_stamp */ '2026-01-14T02:25:49Z',
+/* name */ 'sr42-keyboard-plt.step',
+/* time_stamp */ '2026-01-17T21:17:37+11:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v20.1',
@@ -16562,17 +16562,17 @@ SOLID_ANGLE_UNIT()
 #16416=PRODUCT_DEFINITION_SHAPE('',$,#16419);
 #16417=SHAPE_REPRESENTATION('',(#9649),#16410);
 #16418=PRODUCT_DEFINITION_CONTEXT('part definition',#16423,'design');
-#16419=PRODUCT_DEFINITION('2026-01-08-20-00-24-959','sr42-keyboard',#16420,
-#16418);
+#16419=PRODUCT_DEFINITION('2026-01-08-20-00-24-959','sr42-keyboard-r3',
+#16420,#16418);
 #16420=PRODUCT_DEFINITION_FORMATION('',$,#16425);
-#16421=PRODUCT_RELATED_PRODUCT_CATEGORY('sr42-keyboard','sr42-keyboard',
-(#16425));
+#16421=PRODUCT_RELATED_PRODUCT_CATEGORY('sr42-keyboard-r3',
+'sr42-keyboard-r3',(#16425));
 #16422=APPLICATION_PROTOCOL_DEFINITION('international standard',
 'automotive_design',2009,#16423);
 #16423=APPLICATION_CONTEXT(
 'Core Data for Automotive Mechanical Design Process');
 #16424=PRODUCT_CONTEXT('part definition',#16423,'mechanical');
-#16425=PRODUCT('2026-01-08-20-00-24-959','sr42-keyboard',$,(#16424));
+#16425=PRODUCT('2026-01-08-20-00-24-959','sr42-keyboard-r3',$,(#16424));
 #16426=PRESENTATION_STYLE_ASSIGNMENT((#16431));
 #16427=PRESENTATION_STYLE_ASSIGNMENT((#16432));
 #16428=PRESENTATION_STYLE_ASSIGNMENT((#16433));
